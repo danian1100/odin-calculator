@@ -1,1 +1,1 @@
-# odin-calculator
+This project consists in creating a calculator, using Javascript, HTML and CSS.
